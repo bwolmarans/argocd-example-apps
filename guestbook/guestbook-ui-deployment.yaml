@@ -21,4 +21,3 @@ spec:
         imagePullPolicy: Always
         securityContext:
           runAsGroup: 2
-          runAsUser: 3
