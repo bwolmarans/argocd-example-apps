@@ -18,5 +18,4 @@ spec:
         name: guestbook-ui
         ports:
         - containerPort: 8081
-        securityContext:
-          runAsUser: 5
+    
